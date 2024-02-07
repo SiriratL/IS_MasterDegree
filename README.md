@@ -1,4 +1,4 @@
-# IS_MasterDegree: 
+# IS_MasterDegree: An Approach to Bias Mitigation in Warehouse Productivity Consideration
 
 ## Original Data
 https://drive.google.com/file/d/1DQHQCAJAni1mcHYa1-Hfr79BgkrgiNMw/view?usp=sharing
