@@ -19,6 +19,6 @@ All are python (.ipynb).
 https://www.canva.com/design/DAF2T67JkBc/RpeytewdTtonDYOn8obE6Q/view?utm_content=DAF2T67JkBc&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 ## Written paper
-- 6420412008_IS_Final
+- 6420412008_IS
 
 
