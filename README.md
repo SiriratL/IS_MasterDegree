@@ -9,7 +9,7 @@ https://drive.google.com/file/d/15rrfD8h-TWFwMKX-2gLZRkdZrMrKUFLr/view?usp=shari
 
 ## Coding
 I posted my code in this repository as listed below.
-All are python (.ipynb).
+All are python.
 - def_python : I put functions in here.
 - IS_Data_Preparation : I started coding for this project in this file, but you can ignore it as I've kept it as notes. It's not well-organized.
 - IS_Data_Preparation_2 : Main code file
